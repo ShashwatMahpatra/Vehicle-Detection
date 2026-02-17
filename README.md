@@ -1,4 +1,4 @@
-<img width="1877" height="697" alt="image" src="https://github.com/user-attachments/assets/671ec7d6-1ff0-4604-8467-e8cfaf605605" />An end-to-end vehicle detection and counting system built using YOLOv8, GAN-based fog removal, and ROI-based tracking, with a Tkinter GUI for interactive usage.
+An end-to-end vehicle detection and counting system built using YOLOv8, GAN-based fog removal, and ROI-based tracking, with a Tkinter GUI for interactive usage.
 The system is designed for real-world traffic videos, including foggy and low-visibility conditions, and supports Indian traffic categories such as autorickshaws, rickshaws, minitrucks, etc.
 
 KEY FEATURES:-
