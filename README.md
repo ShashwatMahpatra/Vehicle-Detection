@@ -1,3 +1,4 @@
+# Description
 An end-to-end vehicle detection and counting system built using YOLOv8, GAN-based fog removal, and ROI-based tracking, with a Tkinter GUI for interactive usage.
 The system is designed for real-world traffic videos, including foggy and low-visibility conditions, and supports Indian traffic categories such as autorickshaws, rickshaws, minitrucks, etc.
 
@@ -59,7 +60,7 @@ Download `generator1.pth` (207 MB) from:
 Place the file here:
 models/generator1.pth
 
-For Videos dowload from here:
+# For Videos Download From Here
 <https://drive.google.com/file/d/1Jcdt0zRls4g661MGNf5_a94EQRQgDSVK/view?usp=sharing>
 <https://drive.google.com/file/d/1OPopmOcnyCSHQqpFJrk1oOtQCvX9Zv0P/view?usp=sharing>
 
